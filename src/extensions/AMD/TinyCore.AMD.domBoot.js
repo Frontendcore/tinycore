@@ -32,12 +32,12 @@
 		 * The attribute name for modules definitions.
 		 * @type {String}
 		 */
-		DATA_ATTR_NAME_MODULES_DEF = 'data-tc-modules',
+		DATA_ATTR_NAME_MODULES_DEF = 'data-fc-modules',
 		/**
 		 * The char used as modules separator in "data-" attributes.
 		 * @type {String}
 		 */
-		DOMBOOT_MODULES_SEP = ';',
+		DOMBOOT_MODULES_SEP = ',',
 		/**
 		 * The regular expression used to extract modules definitions from "data-" attributes.
 		 * @type {RegExp}

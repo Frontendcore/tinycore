@@ -67,7 +67,6 @@ module.exports = function ( grunt )
 			options:
 			{
 				preserveComments: 'some',
-				report: 'gzip'
 			},
 			core:
 			{
