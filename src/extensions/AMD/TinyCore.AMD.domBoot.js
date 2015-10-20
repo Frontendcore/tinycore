@@ -47,7 +47,7 @@
 		 * The attribute name for deferred settings.
 		 * @type {String}
 		 */
-		DATA_ATTR_NAME_DEFERRED = 'data-tc-defer',
+		DATA_ATTR_NAME_DEFERRED = 'data-fc-defer',
 		/**
 		 * The char used as deferred settings separator in "data-" attributes.
 		 * @type {String}
